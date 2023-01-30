@@ -32,4 +32,4 @@ for i in nse:
     try:
         print(find_mcap(i))
     except:
-        print('0')
+        print('NAN')
