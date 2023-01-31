@@ -18,12 +18,12 @@ def mcap(symbol):
     
     return mcap
 
-print('NSE:')
+print('NSE , MCAP')
 for i in nse:
     print(i,',',mcap(i))
     time.sleep(3)
 
-print('BSE:')
+print('BSE , MCAP')
 for i in range(265):
     print(bse_symbol[i], ',', mcap(bse_code[i]))
     time.sleep(3)
