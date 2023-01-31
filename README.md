@@ -1,5 +1,15 @@
 # smensebse
 
+## Purpose
+
 An attempt to consolidate relevant data on SMEs listed on NSE SME Emerge and BSE SME.
+
+Currently, it'll give you last available Market Capitalization, Sales, Net Profit and EPS.
+
+## Sources of error
+1. Some data might not be available on the website it scrapes from.
+2. It might extract a year old data due to non-congruence amongst the webpages for different companies.
+
+## Credits
 
 All data has been retrieved from [https://www.screener.in/](https://www.screener.in/).
