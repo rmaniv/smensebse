@@ -30,22 +30,22 @@ def pnl(symbol):
     p.feed(url_get_contents(symbol).decode('utf-8'))
     df = pd.DataFrame(p.tables[1])
     try:
-        sales = float(df.iloc[1,-2])
-        net_profit = float(df.iloc[-3,-2])
-        eps = float(df.iloc[-2,-2])
-        return str(sales)+','+str(net_profit)+','+str(eps)
+        sales = df.iloc[1,-2].replace(',','')
+        net_profit = df.iloc[-3,-2].replace(',','')
+        eps = df.iloc[-2,-2].replace(',','')
+        return sales+','+net_profit+','+eps
     except:
-        sales_ = float(df.iloc[1,-1])
-        net_profit_ = float(df.iloc[-3,-1])
-        eps_ = float(df.iloc[-2,-1])
-        return str(sales_)+','+str(net_profit_)+','+str(eps_)
+        sales_ = df.iloc[1,-1].replace(',','')
+        net_profit_ = df.iloc[-3,-1].replace(',','')
+        eps_ = df.iloc[-2,-1].replace(',','')
+        return sales_+','+net_profit_+','+eps_
 
-print('NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL')
+print('NSE,MCAP (in Rs. cr),Sales (in Rs. cr),Net Profit (in Rs. cr),EPS (in Rs.),URL')
 for i in nse:
     print(i+','+str(mcap(i))+','+pnl(i)+','+'https://www.screener.in/company/'+i+'/')
     time.sleep(3)
 
-print('BSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL')
+print('BSE,MCAP (in Rs. cr),Sales (in Rs. cr),Net Profit (in Rs. cr),EPS (in Rs.),URL')
 for i in range(265):
     print(bse_symbol[i]+','+str(mcap(bse_code[i]))+pnl(bse_code[i])+','+'https://www.screener.in/company/'+bse_code[i]+'/')
     time.sleep(3)
