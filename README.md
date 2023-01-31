@@ -2,9 +2,11 @@
 
 ## Purpose
 
-An attempt to consolidate relevant data on SMEs listed on NSE SME Emerge and BSE SME.
+An attempt to consolidate relevant data on SMEs listed on **NSE SME Emerge** and **BSE SME**.
 
 Currently, it'll give you last available Market Capitalization, Sales, Net Profit and EPS.
+
+It'll print the content that you can use to make a ```.csv``` file to store the data.
 
 ## Sources of error
 1. Some data might not be available on the website it scrapes from.
