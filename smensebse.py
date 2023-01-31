@@ -47,5 +47,5 @@ for i in nse:
 
 print('BSE,MCAP (in Rs. cr),Sales (in Rs. cr),Net Profit (in Rs. cr),EPS (in Rs.),URL')
 for i in range(265):
-    print(bse_symbol[i]+','+str(mcap(bse_code[i]))+pnl(bse_code[i])+','+'https://www.screener.in/company/'+bse_code[i]+'/')
+    print(bse_symbol[i]+','+str(mcap(bse_code[i]))+','+pnl(bse_code[i])+','+'https://www.screener.in/company/'+bse_code[i]+'/')
     time.sleep(3)
