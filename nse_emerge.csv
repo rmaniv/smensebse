@@ -1,126 +1,126 @@
-NSE , MCAP
-ABCOTS , 49.4
-ABINFRA , 17.4
-AMJUMBO , 22.6
-AISL , 52.8
-ASLIND , 30.0
-AVG , 134.0
-AILIMITED , 10.7
-ACCORD , 9.03
-AGNI , 50.0
-AMEYA , 29.9
-AMIABLE , 15.7
-ANNAPURNA , 221.0
-ATALREAL , 113.0
-AURDIS , 102.0
-BEWLTD , 181.0
-BETA , 606.0
-BMETRICS , 265.0
-BRIGHT , 18.6
-CMMIPL , 9.56
-CADSYS , 29.8
-CONTI , 27.5
-COOLCAPS , 610.0
-CMRSL , 58.6
-DKEGL , 43.6
-DUGLOBAL , 213.0
-DESTINY , 21.9
-DRL , 6.04
-DYNAMIC , 27.1
-EMKAYTOOLS , 290.0
-KRISHIVAL , 383.0
-EUROBOND , 270.0
-FELIX , 72.9
-FOCE , 347.0
-FROG , 314.0
-GIRIRAJ , 75.8
-GICL , 87.4
-GSTL , 87.1
-GOLDSTAR , 219.0
-INNOVANA , 590.0
-INNOVATIVE , 4.77
-IPSL , 56.2
-ISHAN , 24.2
-JFLLIFE , 44.0
-JAINAM , 181.0
-JALAN , 14.5
-KORE , 288.0
-JSLL , 416.0
-KHFM , 44.1
-KNAGRI , 337.0
-KANDARP , 18.8
-KCK , 12.3
-KOTYARK , 351.0
-KRISHNADEF , 184.0
-LATTEYS , 182.0
-LEMERITE , 142.0
-LEXUS , 132.0
-LLOYDS , 117.0
-MKPL , 885.0
-MPTODAY , 22.5
-MAHICKRA , 81.6
-MAKS , 22.2
-MANAV , 4.79
-MWL , 279.0
-MDL , 69.2
-MEGAFLEX , 33.4
-MILTON , 50.3
-MHHL , 82.9
-NPST , 218.0
-NIDAN , 69.5
-PROPEQUITY , 176.0
-PARTYCRUS , 84.0
-PASHUPATI , 164.0
-PAVNAIND , 262.0
-PENTAGOLD , 62.2
-PHANTOMFX , 242.0
-PIGL , 84.6
-PRECISION , 60.9
-PROLIFE , 90.9
-PULZ , 58.7
-QMSMEDI , 336.0
-QUADPRO , 28.3
-RMDRIP , 12.9
-RILINFRA , NaN
-RELIABLE , 55.9
-REXPIPES , 36.1
-RICHA , 25.5
-RITEZONE , 34.1
-SSINFRA , 9.28
-SKP , 334.0
-SMVD , 15.8
-SPRL , 15.8
-SABAR , 25.6
-SECL , 299.0
-SHIGAN , 157.0
-TIRUPATI , 143.0
-SVLL , 151.0
-OSWALSEEDS , 409.0
-SRIRAM , 6.81
-SHUBHLAXMI , 37.0
-SIDDHIKA , 66.4
-SIGMA , 234.0
-SOLEX , 267.0
-SONAHISONA , 42.1
-SONUINFRA , 28.3
-SURANI , 35.8
-SWARAJ , 34.2
-SWASTIK , 223.0
-TAPIFRUIT , 37.2
-TARACHAND , 98.2
-THEJO , NaN
-TIMESCAN , 41.9
-TRANSWIND , 5.89
-UWCSL , 48.8
-USASEEDS , 530.0
-URAVI , 187.0
-UCL , 71.0
-VMARCIND , 115.0
-VSCL , 46.9
-MADHAVBAUG , 219.0
-CLOUD , NaN
-VEEKAYEM , 24.7
-VITAL , 261.0
-VIVIANA , 62.5
-VIVO , 24.2
-WALPAR , 30.0
+NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL
+ABCOTS,49.4,115,4,15.71,https://www.screener.in/company/ABCOTS/
+ABINFRA,17.4,64.32,0.86,0.68,https://www.screener.in/company/ABINFRA/
+AMJUMBO,22.6,2.69,0.03,0.03,https://www.screener.in/company/AMJUMBO/
+AISL,52.8,143,5,5.64,https://www.screener.in/company/AISL/
+ASLIND,30.0,8.20,1.51,1.45,https://www.screener.in/company/ASLIND/
+AVG,134.0,432,6,5.10,https://www.screener.in/company/AVG/
+AILIMITED,10.7,13.24,0.50,1.66,https://www.screener.in/company/AILIMITED/
+ACCORD,9.03,39.06,1.09,3.14,https://www.screener.in/company/ACCORD/
+AGNI,50.0,34.44,0.11,0.15,https://www.screener.in/company/AGNI/
+AMEYA,29.9,24.65,2.73,136.50,https://www.screener.in/company/AMEYA/
+AMIABLE,15.7,13.76,0.28,13.90,https://www.screener.in/company/AMIABLE/
+ANNAPURNA,221.0,11.83,0.55,55.00,https://www.screener.in/company/ANNAPURNA/
+ATALREAL,113.0,40.43,2.16,1.46,https://www.screener.in/company/ATALREAL/
+AURDIS,102.0,101,9,10.95,https://www.screener.in/company/AURDIS/
+BEWLTD,181.0,59.41,2.35,12.39,https://www.screener.in/company/BEWLTD/
+BETA,606.0,125,14,14.82,https://www.screener.in/company/BETA/
+BMETRICS,265.0,61.45,1.24,2.00,https://www.screener.in/company/BMETRICS/
+BRIGHT,18.6,7.19,-7.37,-3.61,https://www.screener.in/company/BRIGHT/
+CMMIPL,9.56,55.98,0.51,0.33,https://www.screener.in/company/CMMIPL/
+CADSYS,29.8,14.88,0.33,0.44,https://www.screener.in/company/CADSYS/
+CONTI,27.5,95.36,0.37,0.37,https://www.screener.in/company/CONTI/
+COOLCAPS,610.0,31.12,4.62,5.44,https://www.screener.in/company/COOLCAPS/
+CMRSL,58.6,22.63,0.58,6.44,https://www.screener.in/company/CMRSL/
+DKEGL,43.6,44.75,1.99,7.22,https://www.screener.in/company/DKEGL/
+DUGLOBAL,213.0,4.56,0.26,0.20,https://www.screener.in/company/DUGLOBAL/
+DESTINY,21.9,34.70,1.30,0.84,https://www.screener.in/company/DESTINY/
+DRL,6.04,2.56,0.11,0.16,https://www.screener.in/company/DRL/
+DYNAMIC,27.1,71.51,2.16,1.60,https://www.screener.in/company/DYNAMIC/
+EMKAYTOOLS,290.0,71,35,33.04,https://www.screener.in/company/EMKAYTOOLS/
+KRISHIVAL,383.0,28.13,0.67,0.46,https://www.screener.in/company/KRISHIVAL/
+EUROBOND,270.0,216,13,5.38,https://www.screener.in/company/EUROBOND/
+FELIX,72.9,12.38,0.83,1.63,https://www.screener.in/company/FELIX/
+FOCE,347.0,148.98,3.85,7.87,https://www.screener.in/company/FOCE/
+FROG,314.0,120,7,1,322.00,https://www.screener.in/company/FROG/
+GIRIRAJ,75.8,63.57,2.67,8.23,https://www.screener.in/company/GIRIRAJ/
+GICL,87.4,108,1,0.72,https://www.screener.in/company/GICL/
+GSTL,87.1,18.88,0.75,1.50,https://www.screener.in/company/GSTL/
+GOLDSTAR,219.0,42.91,0.71,0.04,https://www.screener.in/company/GOLDSTAR/
+INNOVANA,590.0,30,11,11.10,https://www.screener.in/company/INNOVANA/
+INNOVATIVE,4.77,52,-59,-32.76,https://www.screener.in/company/INNOVATIVE/
+IPSL,56.2,119,2,3.07,https://www.screener.in/company/IPSL/
+ISHAN,24.2,22.21,0.15,1.12,https://www.screener.in/company/ISHAN/
+JFLLIFE,44.0,32.77,0.54,8.74,https://www.screener.in/company/JFLLIFE/
+JAINAM,181.0,200,28,26.54,https://www.screener.in/company/JAINAM/
+JALAN,14.5,5.92,-14.16,-9.74,https://www.screener.in/company/JALAN/
+KORE,288.0,121,0,13.81,https://www.screener.in/company/KORE/
+JSLL,416.0,146,11,11.15,https://www.screener.in/company/JSLL/
+KHFM,44.1,96.42,-19.21,-19.17,https://www.screener.in/company/KHFM/
+KNAGRI,337.0,1,872,47,18.88,https://www.screener.in/company/KNAGRI/
+KANDARP,18.8,10.41,0.11,1.58,https://www.screener.in/company/KANDARP/
+KCK,12.3,39.12,0.19,0.48,https://www.screener.in/company/KCK/
+KOTYARK,351.0,156,9,10.44,https://www.screener.in/company/KOTYARK/
+KRISHNADEF,184.0,49.52,2.46,2.93,https://www.screener.in/company/KRISHNADEF/
+LATTEYS,182.0,26.81,0.51,0.44,https://www.screener.in/company/LATTEYS/
+LEMERITE,142.0,525,21,12.33,https://www.screener.in/company/LEMERITE/
+LEXUS,132.0,138.91,13.39,6.98,https://www.screener.in/company/LEXUS/
+LLOYDS,117.0,18.13,-3.03,-1.52,https://www.screener.in/company/LLOYDS/
+MKPL,885.0,311,10,24.91,https://www.screener.in/company/MKPL/
+MPTODAY,22.5,20.04,3.01,6.59,https://www.screener.in/company/MPTODAY/
+MAHICKRA,81.6,102,3,4.12,https://www.screener.in/company/MAHICKRA/
+MAKS,22.2,20.90,0.35,0.71,https://www.screener.in/company/MAKS/
+MANAV,4.79,5.05,-6.59,-9.64,https://www.screener.in/company/MANAV/
+MWL,279.0,302,3,833.33,https://www.screener.in/company/MWL/
+MDL,69.2,21.19,0.24,0.14,https://www.screener.in/company/MDL/
+MEGAFLEX,33.4,29.49,1.29,7.35,https://www.screener.in/company/MEGAFLEX/
+MILTON,50.3,59.66,3.25,1.91,https://www.screener.in/company/MILTON/
+MHHL,82.9,133,6,3.53,https://www.screener.in/company/MHHL/
+NPST,218.0,19.16,1.49,2.31,https://www.screener.in/company/NPST/
+NIDAN,69.5,20.38,2.30,2.32,https://www.screener.in/company/NIDAN/
+PROPEQUITY,176.0,23.91,9.31,8.88,https://www.screener.in/company/PROPEQUITY/
+PARTYCRUS,84.0,15.55,1.33,2.38,https://www.screener.in/company/PARTYCRUS/
+PASHUPATI,164.0,661,11,7.28,https://www.screener.in/company/PASHUPATI/
+PAVNAIND,262.0,171,5,4.34,https://www.screener.in/company/PAVNAIND/
+PENTAGOLD,62.2,153.12,0.12,0.09,https://www.screener.in/company/PENTAGOLD/
+PHANTOMFX,242.0,6.76,0.08,80.00,https://www.screener.in/company/PHANTOMFX/
+PIGL,84.6,91,4,4.29,https://www.screener.in/company/PIGL/
+PRECISION,60.9,126,3,2.13,https://www.screener.in/company/PRECISION/
+PROLIFE,90.9,73.08,4.30,10.50,https://www.screener.in/company/PROLIFE/
+PULZ,58.7,5.73,-0.33,-0.61,https://www.screener.in/company/PULZ/
+QMSMEDI,336.0,122,11,29.02,https://www.screener.in/company/QMSMEDI/
+QUADPRO,28.3,9.68,0.97,0.19,https://www.screener.in/company/QUADPRO/
+RMDRIP,12.9,18.21,0.11,0.16,https://www.screener.in/company/RMDRIP/
+RILINFRA,NaN,103.79,4.70,8.94,https://www.screener.in/company/RILINFRA/
+RELIABLE,55.9,27.93,1.45,1.41,https://www.screener.in/company/RELIABLE/
+REXPIPES,36.1,102,2,2.22,https://www.screener.in/company/REXPIPES/
+RICHA,25.5,20.11,0.73,730.00,https://www.screener.in/company/RICHA/
+RITEZONE,34.1,3.80,0.01,10.00,https://www.screener.in/company/RITEZONE/
+SSINFRA,9.28,15.12,0.63,0.44,https://www.screener.in/company/SSINFRA/
+SKP,334.0,9.65,3.64,2.43,https://www.screener.in/company/SKP/
+SMVD,15.8,86.02,1.05,1.05,https://www.screener.in/company/SMVD/
+SPRL,15.8,31.51,0.98,5.48,https://www.screener.in/company/SPRL/
+SABAR,25.6,73.92,1.40,1.27,https://www.screener.in/company/SABAR/
+SECL,299.0,2.28,2.81,2.73,https://www.screener.in/company/SECL/
+SHIGAN,157.0,242,10,5.73,https://www.screener.in/company/SHIGAN/
+TIRUPATI,143.0,198,7,6.91,https://www.screener.in/company/TIRUPATI/
+SVLL,151.0,66.16,3.25,2.83,https://www.screener.in/company/SVLL/
+OSWALSEEDS,409.0,103,4,2.70,https://www.screener.in/company/OSWALSEEDS/
+SRIRAM,6.81,4,-17,-16.81,https://www.screener.in/company/SRIRAM/
+SHUBHLAXMI,37.0,61.49,0.78,0.94,https://www.screener.in/company/SHUBHLAXMI/
+SIDDHIKA,66.4,20.35,1.61,5.21,https://www.screener.in/company/SIDDHIKA/
+SIGMA,234.0,10.78,1.22,1.18,https://www.screener.in/company/SIGMA/
+SOLEX,267.0,72.24,0.99,1.24,https://www.screener.in/company/SOLEX/
+SONAHISONA,42.1,76.98,0.09,0.05,https://www.screener.in/company/SONAHISONA/
+SONUINFRA,28.3,53.18,1.75,3.21,https://www.screener.in/company/SONUINFRA/
+SURANI,35.8,137,2,2.23,https://www.screener.in/company/SURANI/
+SWARAJ,34.2,128.83,4.57,6.35,https://www.screener.in/company/SWARAJ/
+SWASTIK,223.0,518,1,16.19,https://www.screener.in/company/SWASTIK/
+TAPIFRUIT,37.2,13.04,0.10,4.00,https://www.screener.in/company/TAPIFRUIT/
+TARACHAND,98.2,128,2,1.74,https://www.screener.in/company/TARACHAND/
+THEJO,NaN,277,29,27.45,https://www.screener.in/company/THEJO/
+TIMESCAN,41.9,100,1,2,700.00,https://www.screener.in/company/TIMESCAN/
+TRANSWIND,5.89,6.92,-0.92,-1.38,https://www.screener.in/company/TRANSWIND/
+UWCSL,48.8,29.46,1.50,2.88,https://www.screener.in/company/UWCSL/
+USASEEDS,530.0,62.59,0.85,4.31,https://www.screener.in/company/USASEEDS/
+URAVI,187.0,31.34,0.73,0.66,https://www.screener.in/company/URAVI/
+UCL,71.0,35.16,2.43,3.33,https://www.screener.in/company/UCL/
+VMARCIND,115.0,179,5,2.19,https://www.screener.in/company/VMARCIND/
+VSCL,46.9,26.47,-2.76,-2.16,https://www.screener.in/company/VSCL/
+MADHAVBAUG,219.0,74.24,3.47,3.30,https://www.screener.in/company/MADHAVBAUG/
+CLOUD,NaN,3.75,1.42,4.87,https://www.screener.in/company/CLOUD/
+VEEKAYEM,24.7,77,0,0.72,https://www.screener.in/company/VEEKAYEM/
+VITAL,261.0,57.61,6.71,9.98,https://www.screener.in/company/VITAL/
+VIVIANA,62.5,22.53,0.99,43.04,https://www.screener.in/company/VIVIANA/
+VIVO,24.2,14.87,3.19,21.57,https://www.screener.in/company/VIVO/
+WALPAR,30.0,26.76,0.42,0.92,https://www.screener.in/company/WALPAR/
