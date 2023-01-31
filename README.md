@@ -4,9 +4,17 @@
 
 An attempt to consolidate relevant data on SMEs listed on **NSE SME Emerge** and **BSE SME**.
 
+## Description
+
 Currently, it'll give you last available Market Capitalization, Sales, Net Profit and EPS.
 
-It'll print the content that you can use to make a ```.csv``` file to store the data.
+## Output
+
+It'll print the text as comma separated values that you can use to make a ```.csv``` file. 
+
+### Output files:
+1. nse_emerse.csv
+2. bse_sme.csv
 
 ## Sources of error
 1. Some data might not be available on the website it scrapes from.
