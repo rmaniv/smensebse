@@ -36,7 +36,7 @@ def pnl(symbol):
     return df.iloc[1,-1]+','+df.iloc[-3,-1]+','+df.iloc[-2,-1]
 '''
 print('NSE,MCAP')
-print('NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.)')
+#print('NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.)')
 for i in nse:
     print(i+','+str(mcap(i)))
     #print(i+','+str(mcap(i))+','+pnl(i))
