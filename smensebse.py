@@ -22,10 +22,14 @@ def nse_mcap(symbol):
     splitted2 = splitted[1].split('&amp')
 
     # finding market cap
-    url = 'https://www.moneycontrol.com/india/'+splitted2[0]
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, 'html.parser')
-    mcap = soup.find('td', class_='nsemktcap bsemktcap').text
+    try:
+        url = 'https://www.moneycontrol.com/india/'+splitted2[0]
+        r = requests.get(url)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        mcap = soup.find('td', class_='nsemktcap bsemktcap').text
+        
+    except:
+        mcap = 'NaN'
     
     return mcap
 
@@ -60,8 +64,10 @@ def bse_mcap(symbol):
     
     return mcap
 
+print('NSE:')
 for i in nse:
         print(i,',',nse_mcap(i))
 
+print('BSE:')
 for i in bse:
     print(i, ',', bse_mcap(i))
