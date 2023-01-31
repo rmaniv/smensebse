@@ -29,12 +29,12 @@ def pnl(symbol):
     p = HTMLTableParser()
     p.feed(url_get_contents(symbol).decode('utf-8'))
     df = pd.DataFrame(p.tables[1])
-    try:
-        sales = df.iloc[1,-2].replace(',','')
-        net_profit = df.iloc[-3,-2].replace(',','')
-        eps = df.iloc[-2,-2].replace(',','')
+    sales = df.iloc[1,-2].replace(',','')
+    net_profit = df.iloc[-3,-2].replace(',','')
+    eps = df.iloc[-2,-2].replace(',','')
+    if sales != 'Sales +':
         return sales+','+net_profit+','+eps
-    except:
+    else:
         sales_ = df.iloc[1,-1].replace(',','')
         net_profit_ = df.iloc[-3,-1].replace(',','')
         eps_ = df.iloc[-2,-1].replace(',','')
