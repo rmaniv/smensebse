@@ -29,17 +29,23 @@ def pnl(symbol):
     p = HTMLTableParser()
     p.feed(url_get_contents(symbol).decode('utf-8'))
     df = pd.DataFrame(p.tables[1])
-    if(df.iloc[1,-2] != 'Sales +'):
-        return df.iloc[1,-2]+','+df.iloc[-3,-2]+','+df.iloc[-2,-2]
-    else:
-        return df.iloc[1,-1]+','+df.iloc[-3,-1]+','+df.iloc[-2,-1]
+    try:
+        sales = float(df.iloc[1,-2])
+        net_profit = float(df.iloc[-3,-2])
+        eps = float(df.iloc[-2,-2])
+        return str(sales)+','+str(net_profit)+','+str(eps)
+    except:
+        sales_ = float(df.iloc[1,-1])
+        net_profit_ = float(df.iloc[-3,-1])
+        eps_ = float(df.iloc[-2,-1])
+        return str(sales_)+','+str(net_profit_)+','+str(eps_)
 
 print('NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL')
 for i in nse:
     print(i+','+str(mcap(i))+','+pnl(i)+','+'https://www.screener.in/company/'+i+'/')
     time.sleep(3)
 
-print('NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL')
+print('BSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL')
 for i in range(265):
-    print(bse_symbol[i]+','+mcap(bse_code[i])+pnl(bse_code[i])+','+'https://www.screener.in/company/'+bse_code[i]+'/')
+    print(bse_symbol[i]+','+str(mcap(bse_code[i]))+pnl(bse_code[i])+','+'https://www.screener.in/company/'+bse_code[i]+'/')
     time.sleep(3)
