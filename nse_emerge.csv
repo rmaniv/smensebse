@@ -1,4 +1,4 @@
-NSE,MCAP (in Rs. cr),Last Available Sales (in Rs. cr),Last Available Net Profit (in Rs. cr),Last Available EPS (in Rs.),URL
+NSE,MCAP (in Rs. cr),Sales (in Rs. cr),Net Profit (in Rs. cr),EPS (in Rs.),URL
 ABCOTS,49.4,115,4,15.71,https://www.screener.in/company/ABCOTS/
 ABINFRA,17.4,64.32,0.86,0.68,https://www.screener.in/company/ABINFRA/
 AMJUMBO,22.6,2.69,0.03,0.03,https://www.screener.in/company/AMJUMBO/
@@ -47,7 +47,7 @@ JALAN,14.5,5.92,-14.16,-9.74,https://www.screener.in/company/JALAN/
 KORE,288.0,121,0,13.81,https://www.screener.in/company/KORE/
 JSLL,416.0,146,11,11.15,https://www.screener.in/company/JSLL/
 KHFM,44.1,96.42,-19.21,-19.17,https://www.screener.in/company/KHFM/
-KNAGRI,337.0,1,872,47,18.88,https://www.screener.in/company/KNAGRI/
+KNAGRI,337.0,1872,47,18.88,https://www.screener.in/company/KNAGRI/
 KANDARP,18.8,10.41,0.11,1.58,https://www.screener.in/company/KANDARP/
 KCK,12.3,39.12,0.19,0.48,https://www.screener.in/company/KCK/
 KOTYARK,351.0,156,9,10.44,https://www.screener.in/company/KOTYARK/
@@ -80,7 +80,7 @@ PROLIFE,90.9,73.08,4.30,10.50,https://www.screener.in/company/PROLIFE/
 PULZ,58.7,5.73,-0.33,-0.61,https://www.screener.in/company/PULZ/
 QMSMEDI,336.0,122,11,29.02,https://www.screener.in/company/QMSMEDI/
 QUADPRO,28.3,9.68,0.97,0.19,https://www.screener.in/company/QUADPRO/
-RMDRIP,12.9,18.21,0.11,0.16,https://www.screener.in/company/RMDRIP/
+RMDRIP,13.0,18.21,0.11,0.16,https://www.screener.in/company/RMDRIP/
 RILINFRA,NaN,103.79,4.70,8.94,https://www.screener.in/company/RILINFRA/
 RELIABLE,55.9,27.93,1.45,1.41,https://www.screener.in/company/RELIABLE/
 REXPIPES,36.1,102,2,2.22,https://www.screener.in/company/REXPIPES/
@@ -109,7 +109,7 @@ SWASTIK,223.0,518,1,16.19,https://www.screener.in/company/SWASTIK/
 TAPIFRUIT,37.2,13.04,0.10,4.00,https://www.screener.in/company/TAPIFRUIT/
 TARACHAND,98.2,128,2,1.74,https://www.screener.in/company/TARACHAND/
 THEJO,NaN,277,29,27.45,https://www.screener.in/company/THEJO/
-TIMESCAN,41.9,100,1,2,700.00,https://www.screener.in/company/TIMESCAN/
+TIMESCAN,41.9,100,1,2700.00,https://www.screener.in/company/TIMESCAN/
 TRANSWIND,5.89,6.92,-0.92,-1.38,https://www.screener.in/company/TRANSWIND/
 UWCSL,48.8,29.46,1.50,2.88,https://www.screener.in/company/UWCSL/
 USASEEDS,530.0,62.59,0.85,4.31,https://www.screener.in/company/USASEEDS/
