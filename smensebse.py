@@ -32,9 +32,15 @@ def pnl(symbol):
     sales = df.iloc[1,-2].replace(',','')
     net_profit = df.iloc[-3,-2].replace(',','')
     eps = df.iloc[-2,-2].replace(',','')
-    if sales != 'Sales +':
+
+    #if df.iloc[1,-2].replace(',','') != 'Sales +':
+    try:
+        sales = df.iloc[1,-2].replace(',','')
+        net_profit = df.iloc[-3,-2].replace(',','')
+        eps = df.iloc[-2,-2].replace(',','')
         return sales+','+net_profit+','+eps
-    else:
+    #else
+    except:
         sales_ = df.iloc[1,-1].replace(',','')
         net_profit_ = df.iloc[-3,-1].replace(',','')
         eps_ = df.iloc[-2,-1].replace(',','')
