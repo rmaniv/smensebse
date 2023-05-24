@@ -4,8 +4,6 @@
 
 https://twitter.com/iMicrocap/status/1619804527267565570
 
-https://twitter.com/vinamrsachdeva/status/1620182097595072512
-
 ## Purpose
 
 An attempt to consolidate relevant data on SMEs listed on **NSE SME Emerge** and **BSE SME**.
