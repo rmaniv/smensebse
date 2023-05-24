@@ -1,6 +1,6 @@
 # smensebse
 
-*This entire repository was just created to while I was searching for people talking about NSE SME Emerge and BSE SME on Twitter.*
+*This entire repository was just created to serve a need I discovered while I was searching for conversations about NSE SME Emerge and BSE SME on Twitter.*
 
 https://twitter.com/iMicrocap/status/1619804527267565570
 
