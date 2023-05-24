@@ -1,5 +1,7 @@
 # smensebse
 
+*This entire repository was just created to while I was searching for people talking about NSE SME Emerge and BSE SME on Twitter. https://twitter.com/vinamrsachdeva/status/1620182097595072512*
+
 ## Purpose
 
 An attempt to consolidate relevant data on SMEs listed on **NSE SME Emerge** and **BSE SME**.
